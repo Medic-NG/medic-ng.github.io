@@ -1,2 +1,2 @@
-# medic_ng.github.io
+## medic-ng.github.io
 Temporary page
